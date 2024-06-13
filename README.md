@@ -1,0 +1,1 @@
+In this project, we explore the capabilities of the GPT-2 model, a state-of-the-art natural language processing model developed by OpenAI, for generating coherent and creative text. Leveraging the Hugging Face Transformers library, we implement and fine-tune the "openai-community/gpt2" model to produce high-quality textual content based on various prompts.
